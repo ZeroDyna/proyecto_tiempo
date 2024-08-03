@@ -23,4 +23,4 @@ El proyecto está destinado a ser un "sandbox" donde puedes probar nuevas tecnol
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone https://github.com/tu
+   git clone https://github.com/ZeroDyna/proyecto_tiempo.git
